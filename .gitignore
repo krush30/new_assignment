@@ -1,0 +1,6 @@
+/node_modules
+node_modules/
+.codegpt
+config/default.json
+.cache
+/frontend/node_modules
